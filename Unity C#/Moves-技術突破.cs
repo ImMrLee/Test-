@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+// This is a expmale, not using for any works
 public class Moves : MonoBehaviour
 {
     // Start is called before the first frame update
